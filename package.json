@@ -1,0 +1,12 @@
+{
+  "name": "aws-ssm-dotenv",
+  "version": "0.0.1-alpha1",
+  "bin": "index.js",
+  "private": false,
+  "repository": "https://github.com/confix/aws-ssm-to-dotenv",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-ssm": "^3.28.0",
+    "commander": "^8.1.0"
+  }
+}
